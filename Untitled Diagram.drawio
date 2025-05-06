@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36" version="26.2.14" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="26.2.14" pages="5">
   <diagram name="Page-1" id="CiR0Rck9hiVRUKplWjWE">
-    <mxGraphModel dx="1152" dy="1612" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="970" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ZwNQKXRfj0mkLWG73Y_O-1" value="User (Browser)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ZwNQKXRfj0mkLWG73Y_O-1" value="User (e.g. Browser)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-29" y="-26" width="182" height="117" as="geometry" />
         </mxCell>
         <mxCell id="ZwNQKXRfj0mkLWG73Y_O-3" value="Cloudfront Distribution&amp;nbsp;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
