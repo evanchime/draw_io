@@ -47,15 +47,15 @@
         <mxCell id="ftkEpQmnAtfuGdiyxa1V-8" value="Custom Error Pages S3 Bucket&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="621" y="371" width="207" height="159" as="geometry" />
         </mxCell>
-        <mxCell id="ftkEpQmnAtfuGdiyxa1V-14" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+        <mxCell id="ftkEpQmnAtfuGdiyxa1V-15" value="Postgresql RDS Database&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="648" width="214" height="166" as="geometry" />
+        </mxCell>
+        <mxCell id="FYlYWvqeZVaeiBFWh1tR-1" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;startArrow=classic;endSize=8;startSize=8;rounded=0;fontSize=12;curved=1;" edge="1" parent="1">
           <mxGeometry width="140" relative="1" as="geometry">
-            <mxPoint x="709" y="726" as="sourcePoint" />
-            <mxPoint x="966" y="726" as="targetPoint" />
+            <mxPoint x="705" y="729.17" as="sourcePoint" />
+            <mxPoint x="951" y="729.5" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="ftkEpQmnAtfuGdiyxa1V-15" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="964" y="647" width="214" height="166" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
