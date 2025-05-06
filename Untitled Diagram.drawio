@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36" version="24.7.7" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36" version="24.7.7" pages="3">
   <diagram name="Page-1" id="CiR0Rck9hiVRUKplWjWE">
     <mxGraphModel dx="1028" dy="1398" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="ZwNQKXRfj0mkLWG73Y_O-1" value="User (Browser)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-29" y="-26" width="182" height="117" as="geometry" />
         </mxCell>
-        <mxCell id="ZwNQKXRfj0mkLWG73Y_O-3" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZwNQKXRfj0mkLWG73Y_O-3" value="Cloudfront Distribution&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="326" y="-86" width="439" height="262" as="geometry" />
         </mxCell>
         <mxCell id="ZwNQKXRfj0mkLWG73Y_O-7" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;startArrow=classic;endSize=8;startSize=8;rounded=0;fontSize=12;curved=1;" edge="1" parent="1">
@@ -38,13 +38,13 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ftkEpQmnAtfuGdiyxa1V-5" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ftkEpQmnAtfuGdiyxa1V-5" value="Static Files S3 Bucket&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="259" y="359" width="205" height="158" as="geometry" />
         </mxCell>
-        <mxCell id="ftkEpQmnAtfuGdiyxa1V-7" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ftkEpQmnAtfuGdiyxa1V-7" value="EC2&lt;div&gt;Nginx/Django App&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="381" y="648" width="324" height="153" as="geometry" />
         </mxCell>
-        <mxCell id="ftkEpQmnAtfuGdiyxa1V-8" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ftkEpQmnAtfuGdiyxa1V-8" value="Custom Error Pages S3 Bucket&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="621" y="371" width="207" height="159" as="geometry" />
         </mxCell>
         <mxCell id="ftkEpQmnAtfuGdiyxa1V-14" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
@@ -61,6 +61,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="z51ZqBHds3LbHOzoKN1e" name="Page-2">
+    <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ktkw1pTdxezzW0mjphdY" name="Page-3">
     <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
